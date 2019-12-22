@@ -2,7 +2,7 @@
 
 
 
-Whenever I commit a new repository, this GitHub Page will be updated to show the content I share/post here on Github
+Whenever I commit a new repository, this GitHub Page will be updated to show the content I share/post here on Github.
 
 
 ## Repositories:
@@ -10,13 +10,13 @@ Whenever I commit a new repository, this GitHub Page will be updated to show the
 * [WPF QrCoder] (https://github.com/samiincube/wpf-QrCoder)
  Wpf app for generating Qr-Code, using fluent design. 
  
- (https://i.imgur.com/PvCfVbO.jpg)
+ ![Some pictures:](https://i.imgur.com/PvCfVbO.jpg)
  
  
-* [Fich Maladie] (https://github.com/samiincube/Fiche-maladie-PA)
+* [Fiche Maladie: PA] (https://github.com/samiincube/Fiche-maladie-PA)
  Application ayant pour but de générer des rapports (pdf) pour les patients souffrant de Pancréatite aigüe.
  
- (https://i.imgur.com/tQTtmPc.png)
+ ![Some pictures:](https://i.imgur.com/tQTtmPc.png)
 
 ## Support or Contact
 
