@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to this GitHub Page
 
-You can use the [editor on GitHub](https://github.com/samiincube/samiincube.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Whenever I commit a new repository, this GitHub Page will be updated to show the content I share/post here on Github
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Repositories:
 
-# Header 1
-## Header 2
-### Header 3
+* [WPF QrCoder] (https://github.com/samiincube/wpf-QrCoder)
+ Wpf app for generating Qr-Code, using fluent design. 
+ 
+ (https://i.imgur.com/PvCfVbO.jpg)
+ 
+ 
+* [Fich Maladie] (https://github.com/samiincube/Fiche-maladie-PA)
+ Application ayant pour but de générer des rapports (pdf) pour les patients souffrant de Pancréatite aigüe.
+ 
+ (https://i.imgur.com/tQTtmPc.png)
 
-- Bulleted
-- List
+## Support or Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samiincube/samiincube.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Github] (https://github.com/samiincube)
+* [Mail] (s.incubus@bk.ru)
+* [Instagram] (https://www.instagram.com/sami_incube)
