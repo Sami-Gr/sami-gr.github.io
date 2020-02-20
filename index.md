@@ -7,13 +7,13 @@ Whenever I commit a new repository, this GitHub Page will be updated to show the
 
 ### Repositories:
 
- ## WPF QrCoder: [https://github.com/Sami-Gr/wpf-QrCoder]
+ # WPF QrCoder: [https://github.com/Sami-Gr/wpf-QrCoder]
  Wpf app for generating Qr-Code, using fluent design. 
  
  ![Some pictures:](https://i.imgur.com/PvCfVbO.jpg)
  
  
- ## Fiche Maladie: PA] [https://github.com/Sami-Gr/Fiche-maladie-PA]
+ # Fiche Maladie: PA] [https://github.com/Sami-Gr/Fiche-maladie-PA]
  Application ayant pour but de générer des rapports (pdf) pour les patients souffrant de Pancréatite aigüe.
  
  ![Some pictures:](https://i.imgur.com/tQTtmPc.png)
