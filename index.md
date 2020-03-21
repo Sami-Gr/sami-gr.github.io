@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="zW4FU9rmit75oynEV2X-fssjlr6sBz7Xe4VNcU16Xwo" />
 
 ### Sami Gr Github Page
 
