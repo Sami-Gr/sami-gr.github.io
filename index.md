@@ -13,6 +13,10 @@ Whenever I commit a new repository, this GitHub Page will be updated to show the
  
  ![Some pictures:](https://i.imgur.com/PvCfVbO.jpg)
  
+ # 1001 Docus -Desktop: [https://github.com/Sami-Gr/1001Docus--desktop]
+ Watch live Documentary Channels.
+ ![Some pictures:](https://i.imgur.com/xsTvT6D.png)
+ ![Some pictures:](https://i.imgur.com/iczG2o6.jpg)
  
  # Fiche Maladie: PA] [https://github.com/Sami-Gr/Fiche-maladie-PA]
  Application ayant pour but de générer des rapports (pdf) pour les patients souffrant de Pancréatite aigüe.
